@@ -98,6 +98,7 @@ En général le CDN fait office de relais pour atteindre une destination, lorsqu
 - Lorsque le CDN amont fait le travail de redirection lui-même, sans que le client qui accédait au contenu en soit même conscient.
 
 <center> <H1> References </H1> </center> 
+
 - https://community.akamai.com/customers/s/question/0D54R000074TaJLSA0/should-origin-certificate-be-pinned-at-akamai-for-better-security?language=en_US
 - https://www.internetsociety.org/wp-content/uploads/2021/01/forwarding-loop-attacks-content-delivery-networks.pdf
 - https://www.securityweek.com/new-attack-abuses-cdns-spread-malware/
